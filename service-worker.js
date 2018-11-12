@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-planner-app/precache-manifest.298990f345f5097c3bdbfd79f3809ec8.js"
+  "/react-planner-app/precache-manifest.4ef0e60b8d71458d23804f020f68ecca.js"
 );
 
 workbox.clientsClaim();
